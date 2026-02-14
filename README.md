@@ -34,8 +34,11 @@ I'm a **Support Engineer** at **One Sky Communications Ltd**, an ISP company in 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bdnaeim&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdnaeim&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bdnaeim&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdnaeim&layout=compact&theme=radical" alt="Top Languages" width="400"/>
 </p>
 
 ---
